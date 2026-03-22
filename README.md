@@ -17,3 +17,4 @@ In addition to the SA display, I want to give a quick overview of the Atlantic h
 - [NOAA Education Site](https://www.noaa.gov/education)
 - [Ready.gov Preparedness](https://www.ready.gov/hurricanes)
 - [Making a plan](https://www.ready.gov/plan)
+- [FEMA National Preparedness Courses](https://www.firstrespondertraining.gov/frts/npccatalog)
