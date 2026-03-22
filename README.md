@@ -16,3 +16,4 @@ In addition to the SA display, I want to give a quick overview of the Atlantic h
 - [NWS Education Information](https://www.weather.gov/education/)
 - [NOAA Education Site](https://www.noaa.gov/education)
 - [Ready.gov Preparedness](https://www.ready.gov/hurricanes)
+- [Making a plan](https://www.ready.gov/plan)
