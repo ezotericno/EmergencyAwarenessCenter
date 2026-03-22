@@ -1,8 +1,8 @@
 # EmergencyAwarenessCenter
 Welcome, 
-This repo is for quite a large (in my case) project I want to tackle.
+this repo is for a large (in my case) project I want to tackle.
 
-I live in the state of Florida, as you may or may not know, we are subject to hurricanes that appear in the Atlantic ocean and other forms of severe weather. Throughtout my life I have experienced multiple catostrophic storms and weather conditions, with this project
+I live in the state of Florida, as you may or may not know, we are subject to hurricanes that appear in the Atlantic ocean and other forms of severe weather throughout the year. During my lifetime I have experienced multiple catostrophic storms and weather conditions, with this project
 I hope to enhance my situational awareness(SA) of severe weather and maybe help others due the same when it comes to readiness for hurricane season, as well as help educate others(and myself in the process) about hurricanes, severe weather, and how to 
 prepare for a storm when it is headed towards the area you reside.
 
