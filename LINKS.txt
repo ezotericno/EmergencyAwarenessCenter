@@ -1,0 +1,5 @@
+https://www.star.nesdis.noaa.gov/GOES/sector_band.php?sat=G16&sector=taw&band=13&length=24&refresh=true
+
+https://www.noaa.gov/news-features
+
+https://www.weather.gov/news
