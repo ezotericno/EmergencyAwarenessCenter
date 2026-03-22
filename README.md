@@ -8,4 +8,4 @@ prepare for a storm when it is headed towards the area you reside.
 
 # Information and resources for hurricane season
 In addition to the SA display, I want to give a quick overview of the Atlantic hurricane season and some links for external resources that you can use to amplify your SA.
-  The Atlantic hurricane season starts June 1st and runs until November 30th. For each storm that is form
+  The Atlantic hurricane season starts June 1st and runs until November 30th. For each hurricane that is formed, The National Hurricane Center(NHC) gives it a coresponding (name)[https://www.nhc.noaa.gov/aboutnames.shtml]
