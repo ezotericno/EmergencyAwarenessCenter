@@ -1,3 +1,11 @@
 <body>
-    
+    <script>
+function refreshImage() {
+  var img = document.getElementById('goes-image');
+  img.src = 'https://www.star.nesdis.noaa.gov/GOES/sector_band.php?sat=G16&sector=taw&band=13&length=24&refresh=true' + new Date().getTime();
+}
+setInterval(refreshImage, 600000); // Refreshes every 10 minutes (600,000ms)
+</script>
+<img id="goes-image" src="https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/conus/GEOCOLOR/latest.jpg" alt="GOES Satellite">
+
 </body>
